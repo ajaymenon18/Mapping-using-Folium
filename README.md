@@ -12,6 +12,10 @@ The Map that contains the volcanoes in the United States of America
 ![image](https://user-images.githubusercontent.com/10756648/133960601-7a8b7776-3cca-45d2-937e-b0b1202d480d.png)
 
 
+The following Map has all the volcanoes identified in the Map with information of each volcanoe given below 
+
+![image](https://user-images.githubusercontent.com/10756648/133961204-83d3419c-19e1-4feb-858a-89e4f7b1fec6.png)
+
 
 
 
