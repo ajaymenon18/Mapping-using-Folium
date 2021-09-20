@@ -12,6 +12,13 @@ The Map that contains the volcanoes in the United States of America
 ![image](https://user-images.githubusercontent.com/10756648/133960601-7a8b7776-3cca-45d2-937e-b0b1202d480d.png)
 
 
+If elevation of the volcano is less than 1000 then it is identified by the green color, If it is between
+1000 and 3000 then it is identified by orange and if the elevation is greater than 3000m then it is identified by red 
+
+![image](https://user-images.githubusercontent.com/10756648/133961399-fa9ca0f0-8341-42b7-849c-990313ebf95a.png)
+
+
+
 The following Map has all the volcanoes identified in the Map with information of each volcanoe given below 
 
 ![image](https://user-images.githubusercontent.com/10756648/133961204-83d3419c-19e1-4feb-858a-89e4f7b1fec6.png)
