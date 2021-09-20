@@ -8,7 +8,10 @@ Layout is made to toggle between the two feature groups
 
 
 The Map that contains the volcanoes in the United States of America 
+
 ![image](https://user-images.githubusercontent.com/10756648/133960601-7a8b7776-3cca-45d2-937e-b0b1202d480d.png)
+
+
 
 
 
@@ -20,5 +23,6 @@ Color coded distribution based on the Population dataset of all the world
 
 
 The Map containing both the population as well as the given volcanoes in the United States of America 
+
 ![image](https://user-images.githubusercontent.com/10756648/133960488-21ddf5e8-ffab-43b2-8cc6-417cf47aaf3f.png)
 
